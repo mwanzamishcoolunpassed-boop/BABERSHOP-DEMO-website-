@@ -13,4 +13,4 @@ Reusable MIZCYR demo template.
 - #1D1D1D — background
 - #FFFFFF — text
 
-Replace the parenthesized placeholders before delivering to a real client.
+I'll Replace the parenthesized placeholders before delivering to a real client.
